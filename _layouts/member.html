@@ -26,12 +26,37 @@ layout: default
 
 		{% if member.ucsf %}
 		<div class="smallhead">
-			UCSF Profile
+			Profil na UL FE
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-university"></i>
-			<a class="off" href="https://profiles.ucsf.edu/{{ member.ucsf }}">{{ member.ucsf }}</a>
+			<a class="off" href="https://www.fe.uni-lj.si/o_fakulteti/imenik_zaposlenih/po_abecedi/{{ member.ucsf }}">{{ member.title }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+		{% if member.telephone %}
+		<div class="smallhead">
+			Telefon
+		</div>
+		<div class="pad-left note">
+			<p><div class="smallspacer">
+						{{ member.telephone }}
+				</div>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
+		{% if member.email %}
+		{% assign emailarray = member.email | split: '@' %}
+		<div class="smallhead">
+			Email
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-inbox fa-fw"></i>
+			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
@@ -80,19 +105,6 @@ layout: default
 			<div class="smallspacer"></div>
 			<i class="fab fa-linkedin"></i>
 			<a class="off" href="https://www.linkedin.com/in/{{ member.linkedin }}">{{ member.title }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
-
-		{% if member.email %}
-		{% assign emailarray = member.email | split: '@' %}
-		<div class="smallhead">
-			Email
-		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-inbox fa-fw"></i>
-			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}

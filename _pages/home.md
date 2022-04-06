@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Home"
+title: "Laboratorij za elektromotorske pogone"
 layout: homelay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "LEP na FE."
 sitemap: false
 permalink: /
 ---

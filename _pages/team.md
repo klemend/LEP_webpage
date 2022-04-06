@@ -1,18 +1,18 @@
 ---
-title: "Sanders Lab - Team"
+title: "Laboratorij za elektromotorske pogone - Člani"
 layout: gridlay
-excerpt: "Sanders Lab: Team members"
+excerpt: "LEP: člani laboratorija"
 sitemap: false
 permalink: /team/
 ---
 
-# Team Members
-(Please click the name below for the lab memeber's profile)
+# Člani laboratorija
+(S klikom na ime izveste več)
 
 
 ---
 
-## Principal Investigator
+## Predstojnik laboratorija
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -45,7 +45,7 @@ permalink: /team/
 
 ---
 
-## Trainee
+## Člani
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ permalink: /team/
 
 ---
 
-## Staff
+## Administracija
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -111,7 +111,7 @@ permalink: /team/
 
 ---
 
-## PsychCore Genomics Core
+## Tehnični sodelavec
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 

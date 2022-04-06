@@ -1,13 +1,13 @@
 ---
-title: "Sanders Lab - Publications"
+title: "LEP - Znanstvene objave"
 layout: gridlay
-excerpt: "Sanders Lab -- Publications."
+excerpt: "LEP -- Znanstvene objave."
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+# Znanstvene objave
 
 ---
 
