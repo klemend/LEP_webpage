@@ -76,6 +76,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+
 ---
 
 ## Administracija

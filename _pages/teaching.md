@@ -1,26 +1,82 @@
 ---
-title: "Sanders Lab - Code"
+title: "LEP - Poučevanje"
 layout: textlay
-excerpt: "Sanders Lab -- Code."
+excerpt: "LEP - Poučevanje."
 sitemap: false
-permalink: /code/
+permalink: /teaching/
 ---
 
 
-# Code
+# Poučevanje
 
 ---
 
-## [PsychCore Genomics Pipeline](https://github.com/sanderslab/psychcore-compute-platform)
+### [**Integirani pogonski sistemi** (MAG, 2. letnik)](https://fe.uni-lj.si/predmeti/integrirani-pogonski-sistemi)
+
+Nosilec: **Rastko Fišer**  
+Asistent: **Klemen Drobnič**  
+Koda predmeta: **64292**
+
+Predmet Integrirani pogonski sistemi je namenjen študentom, ki se želijo seznaniti s sodobnimi izvedbami integriranih elektromotorskih pogonov in njihovim vključevanjem v kompleksne avtomatizirane postroje.
+
+Predmet pokriva široko paleto tem, vključno z:
+- Trendi razvoja električnih pogonskih motorjev in reguliranih pogonov
+- Prehodni pojavi, dinamična stanja elektromotorskih pogonov in energijske izgube
+- Uporaba računalniških orodij in metod za modeliranje, simuliranje in vrednotenje obratovalnih stanj električnih pogonov
+- Pogoni z motorji malih moči in posebnih konstrukcijskih izvedb
+- Večfazni motorji in pretvorniki
+- Pogonski sistemi z linearnimi motorji
+- Električni pogonski sistemi v cestnih in tirnih vozilih
+- Sistem električne vleke
+- Pogonski sistemi in pretvarjanje električne energije v vetrnih elektrarnah
+- Nadzor stanja in diagnostika elektromotorskih pogonov
+
+Predmet je razdeljen na dva dela. V prvem delu se študentje seznanijo z osnovnimi pojmi in principi delovanja integriranih elektromotorskih pogonov. V drugem delu se študentje osredotočijo na bolj specifične teme, kot so prehodna stanja, dinamična stanja, energijske izgube, kaskadne vezave, večmotorski pogoni in linearni motorji.
+
+Predmet je zasnovan tako, da študentom omogoči, da pridobijo teoretična in praktična znanja, ki so potrebna za razumevanje in načrtovanje integriranih pogonskih sistemov. Študenti se bodo seznanili z osnovnimi pojmi in principi delovanja integriranih pogonskih sistemov, z različnimi vrstami pogonskih motorjev in pretvornikov, ter z načini nadzora in upravljanja pogonskih sistemov.
+
+### [**Elektromotorski pogoni** (MAG, 1. letnik)](https://fe.uni-lj.si/predmeti/elektromotorski-pogoni)
+
+Nosilec: **Rastko Fišer**  
+Asistent: **Klemen Drobnič in Henrik Lavrič**  
+Koda predmeta: **64221**
+
+Elektromotorski pogoni predstavljajo temelj sodobne tehnologije, združujejoč osnovne komponente, zgodovinski pregled ter trenutno stanje in trende razvoja. Obravnavamo stacionarna in dinamična stanja, obratovalne karakteristike električnih motorjev, vztrajnostne momente, mehanske prehodne pojave ter statično stabilnost pogonskih sistemov. Razpravljamo o enosmernih, asinhronskih in sinhronskih motorjih, vključno z njihovimi značilnostmi, načini napajanja, nastavljanjem vrtilne hitrosti ter problematiko zagona in zaviranja. Poudarjamo izbiro pogonskih motorjev, segrevanje, ohlajanje, normirane vrste obratovanja, metode določanja moči ter kompenzacijo jalove energije. Nazadnje, osvetljujemo moderne izvedbe energijsko varčnih električnih motorjev ter načrtovanje elektromotorskih pogonov z visokim izkoristkom in zanesljivostjo, vključno s standardno zaščito.
+
+### [**Električni pogonski sistemi** (VŠP, 2. letnik)](https://fe.uni-lj.si/predmeti/elektricni-pogonski-sistemi)
+
+Nosilec: **Rastko Fišer**  
+Asistent: **Klemen Drobnič**  
+Koda predmeta: **64647**
+
+Elektromotorski pogoni ...
+
+### [**Močnostna elektronika** (VŠP, 2. letnik)](https://fe.uni-lj.si/predmeti/mocnostna-elektronika/)
+
+Nosilec: **Rastko Fišer**  
+Asistent: **Henrik Lavrič**  
+Koda predmeta: **64646**
+
+Močnostna elektronika ...
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/codepic/WGS_Pipeline_Image.png" style="width: 300px"> 
 
-This containerized pipeline was developed for high-throughput parallel processing on the Amazon Web Services cloud platform. It was deployed to process whole-genome sequencing data from FASTQ to VCF for analysis of the human prefrontal cortex across development.
 
-- <a href="https://github.com/sanderslab/psychcore-compute-platform"><i class='fab fa-github'></i> Source</a>
+
+
+<!---![]({{ site.url }}{{ site.baseurl }}/images/respic/genediscovery.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}--->
+- <a href="https://fe.uni-lj.si/predmeti/integrirani-pogonski-sistemi/"><i class='fab fa-github'></i> FE</a>
 - <a href="https://www.biorxiv.org/content/10.1101/585430v1"><i class='fa fa-book'></i> Paper</a>
 
+$$a=\frac{1}{2}$$
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
+~~~ matlab
+a = 10;
+linspace(1,1000,1000)
+  42
+end
+~~~
 ---
 
 ## [MagellanMapper](https://github.com/sanderslab/magellanmapper)

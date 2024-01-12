@@ -3,7 +3,7 @@ title: "Sanders Lab - Data"
 layout: textlay
 excerpt: "Sanders Lab -- Data."
 sitemap: false
-permalink: /data/
+permalink: /equipment/
 ---
 
 # Data
