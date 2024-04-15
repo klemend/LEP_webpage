@@ -27,8 +27,6 @@ LEP se nahaja v pritličju in prvem nadstropju stavbe D ([Načrt](https://fe.uni
 Obiskovalcem je namenjeno spodnje parkirišče.
  
 ### Javni prevoz
-There are two MUNI lines with stops in close proximity to UCSF Mission Bay: the T-Third St and 55-16th St.
+Postaja LPP Hajdrihova (liniji 1 in 6).
 
-1. T-Third St. [link](https://www.sfmta.com/routes/t-third-street)
-1. 55-16th St. [link](https://www.sfmta.com/routes/55-16th-street)
  

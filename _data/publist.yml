@@ -1,5 +1,6 @@
+
 - title: "An Improved Design of Synthetic Loading Method for a Rapid In-Wheel Motor Characterization in Different Operating Points"
-  image: Herman2021.png
+  image: SyntheticLoading2021.png
   description: 
   authors: 
   link:
@@ -8,92 +9,92 @@
   highlight: 1
   news2: 
 
-- title: "Whole‐Brain Image Analysis and Anatomical Atlas 3D Generation Using MagellanMapper"
-  image: Young2020.jpg
+- title: "An Output Ripple-Free Fast Charger for Electric Vehicles Based on Grid-Tied Modular Three-Phase Interleaved Converters"
+  image: FastCharging2019.png
   description: 
   authors: 
   link:
-    url: https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpns.104
-    display: Young et al. Current Protocols in Neuroscience (2020)
+    url: https://ieeexplore.ieee.org/document/8792169
+    display: Drobnič in dr. v IEEE Transactions on Industry Applications (2019)
   highlight: 1
   news2: 
 
-- title: "Genome-wide de novo risk score implicates promoter variation in autism spectrum disorder"
-  image: An2018.gif
+- title: "Fast and accurate model of interior permanent-magnet machine for dynamic characterization"
+  image: FluxMaps2019.png
   description: 
   authors: 
   link:
-    url: https://science.sciencemag.org/content/362/6420/eaat6576.long
-    display:  An et al. Science (2018)
+    url: https://www.mdpi.com/1996-1073/12/5/783
+    display:  Drobnič, Gašparin in Fišer v Energies (2019)
   highlight: 1
   news2: 
 
-- title: "An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder"
-  image: Werling2018.png
+- title: "Induction motor broken rotor bar detection based on rotor flux angle monitoring"
+  image: FluxAngle2019.png
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/s41588-018-0107-y
-    display:  Werling et al. Nature Genetics (2018)
+    url: https://www.mdpi.com/1996-1073/12/5/794
+    display:  Nemec, Ambrožič, Fišer, Nedeljković in Drobnič v Energies (2019)
   highlight: 1
   news2: 
 
-- title: "Opposing Effects on NaV1.2 Function Underlie Differences Between SCN2A Variants Observed in Individuals With Autism Spectrum Disorder or Infantile Seizures"
-  image: BenShalom2017.jpg
+- title: "Influence of equipment size and installation height on electricity production in an Archimedes screw-based ultra-low head small hydropower plant and its economic feasibility"
+  image: Archimed2019.jpg
   description: 
   authors: 
   link:
-    url: https://www.biologicalpsychiatryjournal.com/article/S0006-3223(17)30041-0/fulltext
-    display:  Ben-Shalom et al. Biological Psychiatry (2017)
+    url: https://www.sciencedirect.com/science/article/pii/S0960148119305798
+    display:  Lavrič, Rihar in Fišer v Renewable Energy (2019)
   highlight: 1
   news2: 
 
-- title: "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci"
-  image: Sanders2015.png
+- title: "Simulation of electrical energy production in Archimedes screw-based ultra-low head small hydropower plant considering environment protection conditions and technical limitations"
+  image: Archimed2018.jpg
   description: 
   authors: 
   link:
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26402605
-    display:  Sanders et al. Neuron (2015)
+    url: https://www.sciencedirect.com/science/article/pii/S0360544218316803
+    display:  Lavrič, Rihar in Fišer v Energy (2018)
+  highlight: 1
+  news2: 
+  
+- title: "Computations of magnetic field anomalies in synchronous generator due to rotor excitation coil faults"
+  image: SynhronousGenerator2013.gif
+  description: 
+  authors: 
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/6514725
+    display:  Fišer, Lavrič, Bugeza in Makuc v IEEE Transactions on Magnetics (2013)
   highlight: 1
   news2: 
 
-- title: "Synaptic, transcriptional and chromatin genes disrupted in autism"
-  image: DeRubeis2014.png
+- title: "Simplified detection of broken rotor bars in induction motors controlled in field reference frame"
+  image: SimplifiedDetection2012.jpg
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature13772
-    display:  De Rubeis et al. Nature (2014)
+    url: https://www.sciencedirect.com/science/article/pii/S0960148119305798
+    display:  Drobnič, Nemec, Fišer in Ambrožič v Control Engineering Practice (2012)
   highlight: 1
   news2: 
 
-- title: "The contribution of de novo coding mutations to autism spectrum disorder"
-  image: Iossifov2014.png
+- title: "Detection of Broken Bars in Induction Motor Through the Analysis of Supply Voltage Modulation"
+  image: VoltageModulation2010.gif
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature13908
-    display:  Iossifov et al. Nature (2014)
+    url: https://ieeexplore.ieee.org/document/5332284
+    display:  Nemec, Drobnič, Fišer in Ambrožič v IEEE Transactions on Industrial Electronics (2010)
   highlight: 1
   news2: 
 
-- title: "De novo mutations revealed by whole-exome sequencing are strongly associated with autism"
-  image: Sanders2012.png
+- title: "Additional cogging torque components in permanent-magnet motors due to manufacturing imperfections"
+  image: Cogging2009.gif
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/nature10945
-    display:  Sanders et al. Nature (2012)
-  highlight: 1
-  news2: 
-
-- title: "Multiple Recurrent De Novo CNVs, Including Duplications of the 7q11.23 Williams Syndrome Region, Are Strongly Associated with Autism"
-  image: Sanders2011.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0896627311003746
-    display:  Sanders et al. Neuron (2011)
+    url: https://ieeexplore.ieee.org/abstract/document/4787431
+    display:  Gašparin, Černigoj, Markič in Fišer v IEEE Transactions on Magnetics (2009)
   highlight: 1
   news2: 

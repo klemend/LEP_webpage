@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Data"
+title: "LEP Oprema"
 layout: textlay
-excerpt: "Sanders Lab -- Data."
+excerpt: "LEP Oprema"
 sitemap: false
 permalink: /equipment/
 ---
@@ -10,11 +10,39 @@ permalink: /equipment/
 
 ---
 
-## Speedgoat
+![]({{ site.url }}{{ site.baseurl }}/images/equipmentpic/speedgoat.jpg){: style="width: 200px; float: left;margin-right: 30px; border: 10px"}
 
-Speedgoat RT stroji so zasnovani za uporabo v realnem času.
-Omogočajo hitro prototipiranje in testiranje krmilnih sistemov.
-Uporabljajo se v avtomobilski industriji, letalstvu in robotiki.
-Nudijo visoko zmogljivost in natančnost pri obdelavi podatkov.
-So ključni za razvoj in testiranje zapletenih sistemov.
+## Speedgoat real-time target machine
+<div style="text-align: justify">
+- 6-core 4 GHz Intel Xeon processor (Performance-P3-CPU-4.0GHz-6Core)
+- 8 GB Memory, 128 GB SSD
+- Simulink programmable FPGA-based I/O module (FPGA IO334-325k-10V-Performance)
+- DIO Expansion module (IO3xx-21-Performance)
+</div>
+---- 
 
+
+![]({{ site.url }}{{ site.baseurl }}/images/equipmentpic/oscilloscope_hdo_4204.jpg){: style="width: 200px; float: left;margin-right: 30px; border: 10px"}
+
+## Osciloskopi 
+<div style="text-align: justify">
+- Osciloskop **Rigol HDO 4204**: 200 MHz, 12 bit, 4 GS/s, 4 CH
+- Osciloskop **Rigol HDO 1074**: 70 MHz, 12 bit, 2 GS/s, 4 CH
+- Tokovne klešče **Micsig CP2100B**: 
+- Napetostne sonde **Micsig DP1003**:
+</div>
+---- 
+
+
+![]({{ site.url }}{{ site.baseurl }}/images/equipmentpic/Analizator_moci_N4L_PPA5530.png){: style="width: 200px; float: left;margin-right: 30px; border: 10px"}
+
+## Trifazni analizator moči Newtons4th PPA5530
+<div style="text-align: justify">
+- vzorčna frekvenca 2 MS/s,
+- točnost 0,01 %,
+- frekvečno območje DC in 10 mHz do 2 MHz,
+- fazna ločljivost 0,005 stopinje,
+- do 50 Arms (1000 Apk) in 1000 Vrms (3000 Vpk) z direktno vezavo,
+- možnost priključitve zunanjih shuntov za trajni to 200 Arms (0,5 mOhm +- 0,1 %)
+</div>
+---- 
