@@ -6,11 +6,6 @@ sitemap: false
 permalink: /about/
 ---
 
-# About this website
+# O strani
 
-Our website is based on the open source templates designed and shared by the labs of [D. Allan Drummond](http://www.allanlab.org/aboutwebsite.html) and [Trevor Bedford](http://bedford.io/misc/about/). We downloaded source codes from their repository and modified our contents based on shared templates. We greatly thank for Allan and Trevor for allowing reuse of their codebase. 
-
-The website is deployed using [GitHub Pages](https://sanderslab.github.io) and the source code is available on [GitHub](https://github.com/sanderslab). Please feel free to reuse this code (making sure to cite the Bedford lab and Drummond lab as the original sources of the lab website template).
-
-
-
+Stran je narejena s pomočjo predloge laboratorijev [D. Allan Drummond](http://www.allanlab.org/aboutwebsite.html) in [Trevor Bedford](http://bedford.io/misc/about/).
