@@ -9,7 +9,7 @@ permalink: /
 # Laboratorij za elektromotorske pogone
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/lep_logotip.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lep_logotip1.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
 V Laboratoriju za elektromotorske pogone se ukvarjamo z ...
