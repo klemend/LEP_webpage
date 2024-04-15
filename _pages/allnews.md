@@ -1,12 +1,12 @@
 ---
-title: "Sanders Lab - News"
+title: "LEP - novice"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "FE LEP."
 sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# Novice
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
