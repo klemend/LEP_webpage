@@ -1,7 +1,7 @@
 ---
-title: "Laboratorij za elektromotorske pogone - Člani"
+title: "LEP - Člani"
 layout: gridlay
-excerpt: "LEP: člani laboratorija"
+excerpt: "LEP - Člani"
 sitemap: false
 permalink: /team/
 ---

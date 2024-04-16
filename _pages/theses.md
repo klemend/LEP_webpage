@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - Code"
+title: "LEP - Zaključna dela"
 layout: textlay
-excerpt: "Sanders Lab -- Code."
+excerpt: "LEP - Zaključna dela"
 sitemap: false
 permalink: /theses/
 ---

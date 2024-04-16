@@ -17,7 +17,7 @@ Tržaška cesta 25<br>
 1000 Ljubljana
 </p>
 
-LEP se nahaja v pritličju in prvem nadstropju stavbe D ([Načrt](https://fe.uni-lj.si/o_fakulteti/fakulteta/nacrt_prostorov/)).
+LEP se nahaja v pritličju in prvem nadstropju stavbe D.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/lokacija_FE.png" style="width: 600px">
 
