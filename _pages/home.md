@@ -9,10 +9,10 @@ permalink: /
 
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/lep_logotip1.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lep_logotip2.png){: style="width: 600px; float: left;margin-right: 20px; border: 10px"}
 
-# Laboratorij za elektromotorske pogone
-<br/><br/>
+<br/><br/><br/><br/>
+----
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lep_pedagosko1.jpg){: style="width: 250px; float: left;margin-right: 30px; border: 10px"}
 
