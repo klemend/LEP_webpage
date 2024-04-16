@@ -12,26 +12,21 @@ permalink: /
 ![]({{ site.url }}{{ site.baseurl }}/images/lep_logotip1.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 # Laboratorij za elektromotorske pogone
-V Laboratoriju za elektromotorske pogone se ukvarjamo z ...
-<br><br><br><br><br><br>
+<br/><br/>
 
-
+![]({{ site.url }}{{ site.baseurl }}/images/lep_pedagosko1.jpg){: style="width: 250px; float: left;margin-right: 30px; border: 10px"}
 
 ### Pedagoška dejavnost
-**1. stopnja VS Aplikativna elektrotehnika**
- - Električni pogonski sistemi
- - Močnostna elektronika
+<div style="text-align: justify">
+Na 1. stopnji VS Aplikativna elektrotehnika izvajamo predmeta Električni pogonski sistemi in Močnostna elektrotehnika,
+na 1. stopnji UN Elektrotehnika pa sodelujemo pri izvajanju predmeta Električni stroji.
 
-**1. stopnja UN Elektrotehnika**
- - Električni stroji (v sodelovanju z LES)
+Na magistrskem študiju Elektrotehnika izvajamo predmeta Elektromotorski pogoni in Integrirani pogonski sistemi ter na doktorskem študiju predmet Električni servopogoni v mehatroniki.
+</div>
+<br/>
 
-**2. stopnja Elektrotehnika (magistrski študij)**
- - Elektromotorski pogoni
- - Integrirani pogonski sistemi
 
-**3. stopnja Elektrotehnika (doktorski študij)**
- - Električni servopogoni v mehatroniki
-
+![]({{ site.url }}{{ site.baseurl }}/images/lep_raziskovalno2.jpg){: style="width: 250px; float: left;margin-right: 30px; border: 10px"}
 
 ### Znanstveno-raziskovalna dejavnost
 - matematično modeliranje in računalniška simulacija stacionarnih in dinamičnih obratovalnih karakteristik električnih strojev in integriranih pogonskih sistemov s sodobnimi programskimi orodji,

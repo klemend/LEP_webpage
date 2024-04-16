@@ -26,10 +26,10 @@ permalink: /equipment/
 
 ## Osciloskopi 
 <div style="text-align: justify">
-- Osciloskop **Rigol HDO 4204**: 200 MHz, 12 bit, 4 GS/s, 4 CH
-- Osciloskop **Rigol HDO 1074**: 70 MHz, 12 bit, 2 GS/s, 4 CH
-- Tokovne klešče **Micsig CP2100B**: 
-- Napetostne sonde **Micsig DP1003**:
+- Osciloskop **Rigol HDO 4204**: 200 MHz, 12 bit, 4 GS/s, 4 kanali
+- Osciloskop **Rigol HDO 1074**: 70 MHz, 12 bit, 2 GS/s, 4 kanali
+- Tokovne sonde **Micsig CP2100B**: Pasovna širina 2,5 MHz, merilno območje 10 A/100 A.
+- Napetostne sonde **Micsig DP10003**: Pasovna širina 100 MHz, merilno območje 130 V/1300 V.
 </div>
 ---- 
 
@@ -43,6 +43,6 @@ permalink: /equipment/
 - frekvečno območje DC in 10 mHz do 2 MHz,
 - fazna ločljivost 0,005 stopinje,
 - do 50 Arms (1000 Apk) in 1000 Vrms (3000 Vpk) z direktno vezavo,
-- možnost priključitve zunanjih shuntov za trajni to 200 Arms (0,5 mOhm +- 0,1 %)
+- možnost priključitve zunanjih shuntov za trajni tok 200 Arms (0,5 mOhm +- 0,1 %)
 </div>
 ---- 
