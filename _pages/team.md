@@ -77,8 +77,8 @@ permalink: /team/
 {% endif %}
 
 
+<!---
 ---
-
 ## Administracija in alumni
 
 {% for member in site.data.team_members %}
@@ -92,7 +92,7 @@ permalink: /team/
 
 {% endif %}
 {% endfor %}
-
+-->
 
 
 

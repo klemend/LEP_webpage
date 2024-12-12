@@ -22,15 +22,16 @@
   url: zivastare
   group: 1
 
-- name: Romana Krivec
-  photo: damjanamarinc.jpg
-  info: Tajnica katedre
-  url: damjanamarinc
-  group: 8
+#
+#- name: Romana Krivec
+#  photo: damjanamarinc.jpg
+#  info: Tajnica katedre
+#  url: damjanamarinc
+#  group: 8
  
-- name: Miroslav Bugeza
-  photo: miroslavbugeza.jpg
-  info: Mladi raziskovalec
-  url: miroslavbugeza
-  group: 8
-  year: 2006-2010
+#- name: Miroslav Bugeza
+#  photo: miroslavbugeza.jpg
+#  info: Mladi raziskovalec
+#  url: miroslavbugeza
+#  group: 8
+#  year: 2006-2010

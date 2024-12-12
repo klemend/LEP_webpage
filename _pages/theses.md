@@ -10,6 +10,23 @@ permalink: /theses/
 # Zaključna dela
 
 ---
+### 2024
+
+**Avtomatizacija meritve izgub 6-faznega sinhronskega stroja z metodo sintetične obremenitve**, 
+<a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=162581&lang=slv"><i class='fa fa-book'></i></a><br>
+Klemen Mervar, magistrsko delo, 2024.
+
+**Demonstracijski model za prikaz vzdolžno potujočega magnetnega polja**, 
+<a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161492&lang=slv"><i class='fa fa-book'></i></a><br>
+Lara Florjančič, diplomsko delo UNI, 2024.
+
+**Temperaturno regulirana demonstracijska platforma s Peltierjevim elementom**, 
+<a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161620&lang=slv"><i class='fa fa-book'></i></a><br>
+Rok Ivič, diplomsko delo UNI, 2024.
+
+**Optimizacija mehanskih parametrov dirkalnika Formule Student z uporabo simulacijskega orodja CarMaker**, 
+<a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=161619&lang=slv"><i class='fa fa-book'></i></a><br>
+Žan Podlesnik, diplomsko delo UNI, 2024.
 
 ### 2023
 
